@@ -8,3 +8,4 @@ path git status
 path git commit -m "add the text file" //local save
 path git push //save local to github
 path git pull // save github to local 
+path git commit -am "changes" // to commit all files (dont want to use git add)
