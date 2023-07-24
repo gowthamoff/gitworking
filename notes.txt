@@ -13,6 +13,7 @@ git reset --hard <commit code>
 git reset --hard origin/master   
 //branch
 git branch
-git checkout -b "newbranch" // working on new branch
+git checkout -b "newbranch" // creationg a new branch
 git branch
+git chechout master //switching master branch
 
