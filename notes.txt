@@ -1,3 +1,4 @@
+git
 cd path 
 code . //to open vscode
 path clone github link // to clone github repo
