@@ -9,3 +9,5 @@ path git commit -m "add the text file" //local save
 path git push //save local to github
 path git pull // save github to local 
 path git commit -am "changes" // to commit all files (dont want to use git add)
+git reset --hard <commit code>
+git reset --hard origin/master
