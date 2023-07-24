@@ -6,4 +6,4 @@ path ls //to list item
 path git add .\filename.py
 path git status 
 path git commit -m "add the text file" //local save
-
+pull working
