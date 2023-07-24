@@ -15,5 +15,5 @@ git reset --hard origin/master
 git branch
 git checkout -b "newbranch" // creationg a new branch
 git branch
-git chechout master //switching master branch
+git checkout master //switching master branch
 
