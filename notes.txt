@@ -11,3 +11,8 @@ path git pull // save github to local
 path git commit -am "changes" // to commit all files (dont want to use git add)
 git reset --hard <commit code>
 git reset --hard origin/master   
+//branch
+git branch
+git checkout -b "newbranch" // working on new branch
+git branch
+
